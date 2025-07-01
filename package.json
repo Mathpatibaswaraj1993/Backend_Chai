@@ -1,0 +1,17 @@
+{
+  "name": "02chai-aur-backend",
+  "version": "1.0.0",
+  "description": "backend at chai aur code channel",
+  "keywords": [
+    "javascript",
+    "backend",
+    "coffee"
+  ],
+  "license": "ISC",
+  "author": "Baswaraj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
